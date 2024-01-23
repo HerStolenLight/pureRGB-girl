@@ -2,6 +2,8 @@
 
 A purist's enhancement of Pokémon Red, Green, and Blue based on the pokered disassembly.
 
+Note - This fork does it's best to replace the default male trainer with a female one.
+
 To download the latest version of this romhack, [**go here**](https://github.com/Vortyne/pureRGB/releases/latest)
 
 To see the full list of features, bugfixes, and everything else, see [**FEATURES.md**](FEATURES.md)
