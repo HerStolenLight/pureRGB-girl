@@ -69,8 +69,8 @@ _BillsGardenErikaText2Yes::
 	prompt
 
 _BillsGardenErikaText2No::
-	text "Oh, that's too"
-	line "bad."
+	text "Oh, she's..."
+	line "Oh!"
 	done
 
 _BillsGardenErikaText3::
@@ -522,7 +522,7 @@ _BillsGardenGiovanniArmoredMewtwoText::
 _BillsGardenDadText::
 	text "DAD: Look who"
 	line "it is!"
-	para "How's my"
+	para "How's my little"
 	line "girl doing?"
 	para "I heard you"
 	line "became CHAMP!"

@@ -82,7 +82,7 @@ _BlaineIntroText::
 _BlaineIntroText2::
 	text "BLAINE: Hah!"
 	para "You're something"
-	line "else, my boy!"
+	line "else, my girl!"
 	para "Ain't no joke"
 	line "you made it this"
 	cont "far!"

@@ -9,7 +9,8 @@ _CeladonMartCallDadBulbasaurText::
 	line "didn't you?"
 	para "You planned it"
 	line "all out well!"
-	para "My daughter is smart!"
+	para "My daughter is" 
+	line "smart!"
 	prompt
 
 _CeladonMartCallDadSquirtleText::
