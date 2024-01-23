@@ -90,7 +90,7 @@ _CeladonGymTM21NoRoomText::
 _CeladonGymBattleText2::
 	text "Hey!"
 
-	para "Only girls are"
+	para "Only girls"
 	line "allowed in here!"
 	done
 
@@ -139,7 +139,7 @@ _CeladonGymEndBattleText4::
 
 _CeladonGymAfterBattleText4::
 	text "Oh, he's just"
-	line "outside? Sigh..."
+	line "outside? Sigh."
 	cont "Not again!"
 	done
 

@@ -69,7 +69,7 @@ _BillsGardenErikaText2Yes::
 	prompt
 
 _BillsGardenErikaText2No::
-	text "Oh, she's..."
+	text "Oh, she's?"
 	line "Oh!"
 	done
 
