@@ -452,7 +452,7 @@ _GymGuideLostText::
 _GymGuideWonText::
 	text "You"
 	line "picked great"
-	cont "TMs, son!"
+	cont "TMs, girl!"
 	prompt
 
 _RivalIntroText::

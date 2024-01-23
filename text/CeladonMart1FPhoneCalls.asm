@@ -9,7 +9,7 @@ _CeladonMartCallDadBulbasaurText::
 	line "didn't you?"
 	para "You planned it"
 	line "all out well!"
-	para "My son is smart!"
+	para "My daughter is smart!"
 	prompt
 
 _CeladonMartCallDadSquirtleText::
@@ -156,7 +156,7 @@ _CeladonMartCallRivalText3::
 
 _CeladonMartCallRivalText3map::
 	text "I told you NOT"
-	line "to give him one!"
+	line "to give her one!"
 	prompt
 
 _CeladonMartCallRivalText4::

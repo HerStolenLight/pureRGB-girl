@@ -19,7 +19,7 @@ _SchoolB1FLeftTeacherNoPokedex::
 	text "Blimey! A PARCEL!"
 	para "Is it for me?"
 	para "No? Deliver it,"
-	line "my boy!"
+	line "my girl!"
 	prompt
 
 _SchoolB1FLeftTeacherLater::

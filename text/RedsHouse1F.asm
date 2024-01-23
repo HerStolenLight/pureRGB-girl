@@ -1,6 +1,6 @@
 _RedsHouse1FMomWakeUpText::
 	text "MOM: Right."
-	line "All boys leave"
+	line "All girls leave"
 	cont "home some day."
 	cont "It said so on TV."
 
@@ -48,5 +48,5 @@ _DadHealText2::
 	line "you're raring to"
 	cont "go! Good stuff."
 	para "Get back out"
-	line "there, son!"
+	line "there, kiddo!"
 	done
