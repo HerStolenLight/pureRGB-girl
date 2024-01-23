@@ -90,13 +90,15 @@ _CeladonGymTM21NoRoomText::
 _CeladonGymBattleText2::
 	text "Hey!"
 
-	para "You are not"
+	para "Only girls are"
 	line "allowed in here!"
 	done
 
 _CeladonGymEndBattleText2::
-	text "You're"
-	line "too rough!"
+	text "You're as"
+	line "rough as"
+	
+	para "a boy!"
 	prompt
 
 _CeladonGymAfterBattleText2::
@@ -126,7 +128,7 @@ _CeladonGymAfterBattleText3::
 	done
 
 _CeladonGymBattleText4::
-	text "Aren't you the"
+	text "Have you seen the"
 	line "peeping Tom?"
 	done
 
@@ -136,9 +138,9 @@ _CeladonGymEndBattleText4::
 	prompt
 
 _CeladonGymAfterBattleText4::
-	text "Oh, you weren't"
-	line "peeping? We get a"
-	cont "lot of gawkers!"
+	text "Oh, he's just"
+	line "outside? Sigh..."
+	cont "Not again!"
 	done
 
 _CeladonGymBattleText5::
@@ -203,8 +205,8 @@ _CeladonGymBattleText8::
 	text "Welcome to"
 	line "CELADON GYM!"
 
-	para "You better not"
-	line "underestimate"
+	para "You better"
+	line "bring all your"
 	cont "girl power!"
 	done
 
