@@ -538,7 +538,7 @@ _BillsGardenDadText::
 	cont "was just crazy."
 	para "Your MOM and I"
 	line "are having a"
-	cont "little bit of a"
+	cont "bit of a"
 	cont "romantic getaway."
 	prompt
 
